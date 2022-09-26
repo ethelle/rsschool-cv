@@ -1,2 +1,1 @@
-# rsschool-cv
-rsschool-cv
+https://ethelle.github.io/rsschool-cv/cv
