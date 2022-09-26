@@ -1,1 +1,1 @@
-https://ethelle.github.io/rsschool-cv/cv
+https://ethelle.github.io/rsschool-cv/
